@@ -13,5 +13,5 @@ Running on port: 3000
   
 Endpoints:  
 To view all task objects: \tasks  
-For a single task: \tasks\:taskId  
+For a single task: \tasks\\:taskId  
 To submit a task:  \tasks\submit  
